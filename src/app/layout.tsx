@@ -7,8 +7,8 @@ const poppins = Poppins({
   subsets: ["latin"],
 });
 export const metadata: Metadata = {
-  title: "FBS Copia do Mequi",
-  description: "Projeto de Totem do Mequi",
+  title: "FSW Donalds",
+  description: "Bora finalizar esse projeto lindo!",
 };
 
 export default function RootLayout({
